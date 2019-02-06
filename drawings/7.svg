@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="641.6" height="716.9" viewBox="32 66 641.6 716.9"><g><g transform="translate(142,66)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M396.8,0 H0 V89.7 H396.8 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V87.8 H393 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M198.4,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M297.6,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M396.8,22.4 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M396.8,44.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M396.8,67.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M297.6,89.7 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M198.4,89.7 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M99.2,89.7 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,67.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,44.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,22.4 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M99.2,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(-80,34.8)"/><path stroke="#000000" fill="none" d="M0.1,44.9 C-16.9,27.9 -23,61.9 -40 44.9"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-80,34.8)" text-anchor="middle"><tspan x="20" y="16.3">702</tspan></text><rect stroke-width="0" fill="none" width="389.2" height="84" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="194.6" y="16.8">RECEIVE TRANSACTION PACKET FOR A PACKAGE TRANSFER</tspan><tspan x="194.6" y="37.8">OPERATION (INCLUDING GPS COORDINATES OF A DELIVERY</tspan><tspan x="194.6" y="58.8">POINT  AND A DEVICE IDENTIFIER OF A DEVICE ASSOCIATED WITH</tspan><tspan x="194.6" y="79.8">A PACKAGE TRANSFER REQUEST</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 0 0"/></g><g transform="translate(144,181)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M396.8,0 H0 V68.5 H396.8 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V66.6 H393 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M198.4,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M297.6,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M396.8,17.1 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M396.8,34.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M396.8,51.4 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M297.6,68.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M198.4,68.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M99.2,68.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,51.4 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,34.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,17.1 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M99.2,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(-80,24.3)"/><path stroke="#000000" fill="none" d="M0.1,34.3 C-16.9,17.3 -23,51.3 -40 34.3"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-80,24.3)" text-anchor="middle"><tspan x="20" y="16.3">704</tspan></text><rect stroke-width="0" fill="none" width="389.2" height="62.8" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="194.6" y="16.7">AT ARRIVAL AT DELIVERY POINT, VERIFY MATCHING OF DEVICE</tspan><tspan x="194.6" y="37.7">IDENTIFIER IN TRANSACTION PACKET WITH DEVICE IDENTIFIER, IF</tspan><tspan x="194.6" y="58.7">ANY AT THE DELIVERY POINT</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 342 156 342 173" fill="none"/><path fill="black" stroke="black" d="" transform="translate(342,156) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(338,181) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(342, 164.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(302.4,300)"><g><g>
+<path d="M40,0L0,27.6l40,27.6l40,-27.6L40,0L40,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="16.1" y="16.6" fill="none" width="47.5" height="22.1"/>
+<circle fill="none" cx="40" cy="0" r="0.1"/>
+<circle fill="none" cx="55.2" cy="10.5" r="0.1"/>
+<circle fill="none" cx="68.7" cy="19.9" r="0.1"/>
+<circle fill="none" cx="79.9" cy="27.6" r="0.1"/>
+<circle fill="none" cx="68.7" cy="35.4" r="0.1"/>
+<circle fill="none" cx="55" cy="44.8" r="0.1"/>
+<circle fill="none" cx="40" cy="55.2" r="0.1"/>
+<circle fill="none" cx="24.9" cy="44.8" r="0.1"/>
+<circle fill="none" cx="11.2" cy="35.4" r="0.1"/>
+<circle fill="none" cx="0" cy="27.6" r="0.1"/>
+<circle fill="none" cx="11.2" cy="19.9" r="0.1"/>
+<circle fill="none" cx="24.8" cy="10.5" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(-80.1,17.5)"/><path stroke="#000000" fill="none" d="M0,27.6 C-17,10.6 -23.1,44.6 -40.1 27.6"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-80.1,17.5)" text-anchor="middle"><tspan x="20" y="16.3">706</tspan></text><rect stroke-width="0" fill="none" width="47.5" height="22.1" transform="translate(16.1,16.6)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(16.1,16.6)" text-anchor="middle"><tspan x="23.7" y="17.3">MATCH?</tspan></text><path stroke="#000000" fill="none" transform="translate(16.1,16.6)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 342 250 342 292" fill="none"/><path fill="black" stroke="black" d="" transform="translate(342,250) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(338,300) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(342, 271)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(143,397)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M396,0 H0 V27 H396 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V25.1 H392.2 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M198,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M297,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M396,6.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M396,13.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M396,20.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M297,27 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M198,27 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M99,27 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,20.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,13.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,6.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M99,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(-80,3.5)"/><path stroke="#000000" fill="none" d="M0.1,13.6 C-16.9,-3.5 -23,30.5 -40 13.5"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-80,3.5)" text-anchor="middle"><tspan x="20" y="16.3">708</tspan></text><rect stroke-width="0" fill="none" width="388.4" height="21.3" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="194.2" y="17">IMPLEMENT PACKAGE TRANSFER OPERATION</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 341 355 341 389" fill="none"/><path fill="black" stroke="black" d="" transform="translate(341,355) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(337,397) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(341, 372)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(143,465.8)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M396,0 H0 V27 H396 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V25.1 H392.2 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M198,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M297,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M396,6.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M396,13.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M396,20.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M297,27 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M198,27 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M99,27 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,20.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,13.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,6.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M99,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(-80,3.5)"/><path stroke="#000000" fill="none" d="M0.1,13.6 C-16.9,-3.5 -23,30.5 -40 13.5"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-80,3.5)" text-anchor="middle"><tspan x="20" y="16.3">710</tspan></text><rect stroke-width="0" fill="none" width="388.4" height="21.3" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="194.2" y="17">TRANSMIT CONFIRMATION OF COMPLETION OF OPERATION</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 341 424 341 458" fill="none"/><path fill="black" stroke="black" d="" transform="translate(341,424) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(337,466) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(341, 441)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(144,535)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M396,0 H0 V27 H396 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V25.1 H392.2 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M198,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M297,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M396,6.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M396,13.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M396,20.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M297,27 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M198,27 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M99,27 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,20.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,13.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,6.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M99,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(-80,3.5)"/><path stroke="#000000" fill="none" d="M0.1,13.6 C-16.9,-3.5 -23,30.5 -40 13.5"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-80,3.5)" text-anchor="middle"><tspan x="20" y="16.3">712</tspan></text><rect stroke-width="0" fill="none" width="388.4" height="21.3" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="194.2" y="17">TRANSMIT REQUEST OVER NETWORK TO ADDRESS OF DEVICE</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 382 326 615 326 614 548 548 548" fill="none"/><path fill="black" stroke="black" d="" transform="translate(382,326) scale(1,1) rotate(0)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(540,544) scale(1,1) rotate(0)"/><g><g label-idx="0" cursor="move" transform="translate(614.9, 353.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(144,585)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M396,0 H0 V47.6 H396 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V45.7 H392.2 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M198,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M297,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M396,11.9 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M396,23.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M396,35.7 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M297,47.6 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M198,47.6 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M99,47.6 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,35.7 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,23.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,11.9 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M99,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(-80,13.8)"/><path stroke="#000000" fill="none" d="M0.1,23.8 C-16.9,6.8 -23,40.8 -40 23.8"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-80,13.8)" text-anchor="middle"><tspan x="20" y="16.3">714</tspan></text><rect stroke-width="0" fill="none" width="388.4" height="41.9" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="194.2" y="16.8">RECEIVE GPS COORDINATES CORRESPONDING TO A NEW</tspan><tspan x="194.2" y="37.8">LOCATION OF THE DEVICE</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 342 562 342 577" fill="none"/><path fill="black" stroke="black" d="" transform="translate(342,562) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(338,585) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(342, 569.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(144,655.6)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M396,0 H0 V26.7 H396 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V24.8 H392.2 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M198,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M297,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M396,6.7 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M396,13.4 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M396,20 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M297,26.7 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M198,26.7 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M99,26.7 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,20 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,13.4 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,6.7 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M99,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(-72,40)"/><path stroke="#000000" fill="none" d="M0.1,20.1 C-23.1,13.9 -11.4,46.3 -34.6 40"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-72,40)" text-anchor="middle"><tspan x="20" y="16.3">716</tspan></text><rect stroke-width="0" fill="none" width="388.4" height="21" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="194.2" y="16.8">RE ROUTE UAV TO GPS COORDINATES OF NEW LOCATION</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 342 633 342 648" fill="none"/><path fill="black" stroke="black" d="" transform="translate(342,633) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(338,656) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(342, 640.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 144 671 32 671 32 232 136 232" fill="none"/><path fill="black" stroke="black" d="" transform="translate(144,671) scale(1,1) rotate(-180)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(144,236) scale(1,1) rotate(-180)"/><g><g label-idx="0" cursor="move" transform="translate(32, 455.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(376,302)"><g><g>
+<path d="M56.7,0H0v24.2h56.7V0L56.7,0z" fill="none" stroke="none" stroke-dasharray="none"/>
+<rect x="2.5" y="1.1" width="51.7" height="22" fill="none"/>
+<circle fill="none" cx="28.3" cy="0" r="0.1"/>
+<circle fill="none" cx="42.4" cy="0" r="0.1"/>
+<circle fill="none" cx="56.7" cy="6.1" r="0.1"/>
+<circle fill="none" cx="56.7" cy="12.1" r="0.1"/>
+<circle fill="none" cx="56.7" cy="18.1" r="0.1"/>
+<circle fill="none" cx="42.4" cy="24.2" r="0.1"/>
+<circle fill="none" cx="28.3" cy="24.2" r="0.1"/>
+<circle fill="none" cx="14.3" cy="24.2" r="0.1"/>
+<circle fill="none" cx="0" cy="18.1" r="0.1"/>
+<circle fill="none" cx="0" cy="12.1" r="0.1"/>
+<circle fill="none" cx="0" cy="6.1" r="0.1"/>
+<circle fill="none" cx="14.3" cy="0" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(56.6,12)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(56.6,12)"/><rect stroke-width="0" fill="none" width="51.7" height="22" transform="translate(2.5,1.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(2.5,1.1)" text-anchor="middle"><tspan x="25.9" y="17.3">NO</tspan></text><path stroke="#000000" fill="none" transform="translate(2.5,1.1)" d="M 0 0"/></g><g transform="translate(331,362)"><g><g>
+<path d="M56.7,0H0v24.2h56.7V0L56.7,0z" fill="none" stroke="none" stroke-dasharray="none"/>
+<rect x="2.5" y="1.1" width="51.7" height="22" fill="none"/>
+<circle fill="none" cx="28.3" cy="0" r="0.1"/>
+<circle fill="none" cx="42.4" cy="0" r="0.1"/>
+<circle fill="none" cx="56.7" cy="6.1" r="0.1"/>
+<circle fill="none" cx="56.7" cy="12.1" r="0.1"/>
+<circle fill="none" cx="56.7" cy="18.1" r="0.1"/>
+<circle fill="none" cx="42.4" cy="24.2" r="0.1"/>
+<circle fill="none" cx="28.3" cy="24.2" r="0.1"/>
+<circle fill="none" cx="14.3" cy="24.2" r="0.1"/>
+<circle fill="none" cx="0" cy="18.1" r="0.1"/>
+<circle fill="none" cx="0" cy="12.1" r="0.1"/>
+<circle fill="none" cx="0" cy="6.1" r="0.1"/>
+<circle fill="none" cx="14.3" cy="0" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(56.6,12)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(56.6,12)"/><rect stroke-width="0" fill="none" width="51.7" height="22" transform="translate(2.5,1.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(2.5,1.1)" text-anchor="middle"><tspan x="25.9" y="17.3">YES</tspan></text><path stroke="#000000" fill="none" transform="translate(2.5,1.1)" d="M 0 0"/></g></g><defs/></svg>

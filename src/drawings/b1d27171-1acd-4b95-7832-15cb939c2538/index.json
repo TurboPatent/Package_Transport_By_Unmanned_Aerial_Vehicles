@@ -1,0 +1,648 @@
+{
+  "isLandscape": false,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "numberLabel",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"1968fe0d-31b7-8d16-884d-6b4d143b8ac9\" id=\"idfea4cdf8-1246-b0c9-f02f-02a0bd86319e\" data-type=\"term\">process</span></p>",
+        "position": {
+          "x": 594,
+          "y": 17
+        },
+        "size": {
+          "width": 28.346457481384277,
+          "height": 28.346457481384277
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "only",
+        "id": "fc0e5c5e-a1a9-497d-9672-ac8f59ab7867",
+        "z": 1,
+        "objectID": "ba5243ea-cbdc-900b-da2e-58aa7c2e8d09",
+        "number": 0
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p>block</p>",
+        "position": {
+          "x": 142,
+          "y": 66
+        },
+        "size": {
+          "width": 396.76252034548526,
+          "height": 89.68837826166998
+        },
+        "angle": 0,
+        "label": "<p>RECEIVE TRANSACTION PACKET FOR A PACKAGE TRANSFER OPERATION (INCLUDING GPS COORDINATES OF A <span data-role=\"tag\" data-value=\"18d30918-41fd-88aa-1452-fd6144ccd0de\" id=\"id9f064b14-b9a1-28e0-42ff-7075a16dcb7f\" data-type=\"term\">delivery point</span>&nbsp; AND A DEVICE IDENTIFIER OF A DEVICE ASSOCIATED WITH A PACKAGE TRANSFER REQUEST</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position10",
+        "id": "d4363fde-5c92-40ab-9eb9-0806dd8b7ce3",
+        "z": 2,
+        "labelLayout": {
+          "labelBoxWidth": 389.2034606933594,
+          "fullString": "RECEIVE TRANSACTION PACKET FOR A PACKAGE TRANSFER OPERATION (INCLUDING GPS COORDINATES OF A DELIVERY POINT  AND A DEVICE IDENTIFIER OF A DEVICE ASSOCIATED WITH A PACKAGE TRANSFER REQUEST",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "RECEIVE TRANSACTION PACKET FOR A PACKAGE TRANSFER",
+              "width": 341.7747497558594,
+              "x": 23.71435546875,
+              "y": 0.009469372558598366
+            },
+            {
+              "text": "OPERATION (INCLUDING GPS COORDINATES OF A DELIVERY",
+              "width": 352.8540954589844,
+              "x": 18.1746826171875,
+              "y": 21.009506872558596
+            },
+            {
+              "text": "POINT  AND A DEVICE IDENTIFIER OF A DEVICE ASSOCIATED WITH",
+              "width": 381.91009521484375,
+              "x": 3.6466827392578125,
+              "y": 42.009544372558594
+            },
+            {
+              "text": "A PACKAGE TRANSFER REQUEST",
+              "width": 186.97340393066406,
+              "x": 101.11502838134766,
+              "y": 63.00958187255859
+            }
+          ],
+          "textWidth": 381.91009521484375,
+          "textHeight": 84.00014999999999
+        },
+        "objectID": "48990b48-43e4-ab47-e55f-751a3446e744",
+        "number": 2
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "block",
+        "position": {
+          "x": 144,
+          "y": 181
+        },
+        "size": {
+          "width": 396.76252034548526,
+          "height": 68.51317815128071
+        },
+        "angle": 0,
+        "label": "<p>AT <span data-role=\"tag\" data-value=\"5aac101d-e90b-294b-8a52-ff5ff2826f59\" id=\"id194a99cd-5c6e-2e81-aa77-538fbde8783a\" data-type=\"term\">arrival</span> AT DELIVERY POINT, VERIFY MATCHING OF DEVICE IDENTIFIER IN TRANSACTION <span data-role=\"tag\" data-value=\"2ec0e8bc-35a7-29fb-6857-4ff6f2fff660\" id=\"id7b095710-c60c-ac7f-8c11-af030ab6e7c9\" data-type=\"term\">packet</span> WITH DEVICE IDENTIFIER, IF ANY AT THE DELIVERY POINT</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position10",
+        "id": "dcd40153-d263-f760-6451-5d3f8e0acc92",
+        "z": 3,
+        "labelLayout": {
+          "labelBoxWidth": 389.2034606933594,
+          "fullString": "AT ARRIVAL AT DELIVERY POINT, VERIFY MATCHING OF DEVICE IDENTIFIER IN TRANSACTION PACKET WITH DEVICE IDENTIFIER, IF ANY AT THE DELIVERY POINT",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "AT ARRIVAL AT DELIVERY POINT, VERIFY MATCHING OF DEVICE",
+              "width": 359.6055908203125,
+              "x": 14.798934936523438,
+              "y": -0.07811258544921529
+            },
+            {
+              "text": "IDENTIFIER IN TRANSACTION PACKET WITH DEVICE IDENTIFIER, IF",
+              "width": 385.618408203125,
+              "x": 1.7925262451171875,
+              "y": 20.921924914550782
+            },
+            {
+              "text": "ANY AT THE DELIVERY POINT",
+              "width": 165.9535675048828,
+              "x": 111.62494659423828,
+              "y": 41.92196241455078
+            }
+          ],
+          "textWidth": 385.618408203125,
+          "textHeight": 63.00011249999999
+        },
+        "objectID": "6b072f25-1ff2-576e-1f5f-7b045c41e3b9",
+        "number": 4
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "d4363fde-5c92-40ab-9eb9-0806dd8b7ce3"
+        },
+        "target": {
+          "id": "dcd40153-d263-f760-6451-5d3f8e0acc92"
+        },
+        "id": "fcf6b8a7-741c-4988-a03f-883ea358805d",
+        "embeds": "",
+        "z": 4,
+        "routing": "straight",
+        "objectID": "21122638-db7e-1c2a-4227-ab39bc71b911"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "diamond",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "decision block",
+        "position": {
+          "x": 302.427293725951,
+          "y": 300
+        },
+        "size": {
+          "width": 79.90793289358317,
+          "height": 55.244762515922126
+        },
+        "angle": 0,
+        "label": "<p>match?</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position10",
+        "id": "b5d072ff-df53-411c-b746-813d3ea9bc2a",
+        "z": 6,
+        "labelLayout": {
+          "labelBoxWidth": 47.49100875854492,
+          "fullString": "MATCH?",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "MATCH?",
+              "width": 47.36976623535156,
+              "x": 0.06062126159667969,
+              "y": 0.5373624221801769
+            }
+          ],
+          "textWidth": 47.36976623535156,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "db817083-4516-7745-2f06-563236c1bf9a",
+        "number": 6
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "dcd40153-d263-f760-6451-5d3f8e0acc92"
+        },
+        "target": {
+          "id": "b5d072ff-df53-411c-b746-813d3ea9bc2a"
+        },
+        "id": "428b402b-de82-4b7a-a639-254557066e84",
+        "z": 7,
+        "objectID": "9a1ff801-67a4-f176-7814-a033f26ee2f1"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "block",
+        "position": {
+          "x": 143,
+          "y": 397
+        },
+        "size": {
+          "width": 396,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>implement package transfer operation</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position10",
+        "id": "eae7926b-b9a5-4c94-ac96-bd03b6c0db97",
+        "z": 8,
+        "labelLayout": {
+          "labelBoxWidth": 388.44091796875,
+          "fullString": "IMPLEMENT PACKAGE TRANSFER OPERATION",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "IMPLEMENT PACKAGE TRANSFER OPERATION",
+              "width": 267.12567138671875,
+              "x": 60.657623291015625,
+              "y": 0.16533597869873162
+            }
+          ],
+          "textWidth": 267.12567138671875,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "a2d2bd56-da4c-9078-d86a-ee2b85944c60",
+        "number": 8
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "b5d072ff-df53-411c-b746-813d3ea9bc2a"
+        },
+        "target": {
+          "id": "eae7926b-b9a5-4c94-ac96-bd03b6c0db97"
+        },
+        "id": "83ffc3a6-9f87-4705-8963-7b55a4bfc918",
+        "z": 9,
+        "objectID": "4274e7ad-6373-955f-0dfa-acf39b3d5c13",
+        "vertices": []
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "block",
+        "position": {
+          "x": 143,
+          "y": 465.7552374840779
+        },
+        "size": {
+          "width": 396,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>transmit <span data-role=\"tag\" data-value=\"bb235e25-0ce7-b95c-7882-b24b094f65af\" id=\"id7ac3b423-d926-38b1-2d18-78d24fbad12e\" data-type=\"term\">confirmation</span>&nbsp;of <span data-role=\"tag\" data-value=\"1b268904-b049-9336-b3b8-9f2439a60603\" id=\"id366e1356-305d-3f05-ab84-c5939b433b3d\" data-type=\"term\">completion</span>&nbsp;of operation</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position10",
+        "id": "317a7859-fe51-4582-b396-8838fcceaab9",
+        "z": 10,
+        "labelLayout": {
+          "labelBoxWidth": 388.44091796875,
+          "fullString": "TRANSMIT CONFIRMATION OF COMPLETION OF OPERATION",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "TRANSMIT CONFIRMATION OF COMPLETION OF OPERATION",
+              "width": 356.1523742675781,
+              "x": 16.144271850585938,
+              "y": 0.16533597869873162
+            }
+          ],
+          "textWidth": 356.1523742675781,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "abfdbcf6-bcab-9c36-eb9b-8245e25e09d2",
+        "number": 10
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "eae7926b-b9a5-4c94-ac96-bd03b6c0db97"
+        },
+        "target": {
+          "id": "317a7859-fe51-4582-b396-8838fcceaab9"
+        },
+        "id": "21787b81-51b8-4cec-ab68-0e69930635ee",
+        "z": 11,
+        "objectID": "3c6ece94-ca85-cf1a-ffde-f55c3d85cfcd"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "block",
+        "position": {
+          "x": 144,
+          "y": 535
+        },
+        "size": {
+          "width": 396,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>transmit <span data-role=\"tag\" data-value=\"9bf2adfd-04b8-303e-0eec-67db85d37925\" id=\"idcd3ac55c-abe6-c309-8066-661198373214\" data-type=\"term\">request</span>&nbsp;over network to address of device</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position10",
+        "id": "aaa26d77-4e49-4fce-9532-d1f1cfa90af2",
+        "z": 12,
+        "labelLayout": {
+          "labelBoxWidth": 388.44091796875,
+          "fullString": "TRANSMIT REQUEST OVER NETWORK TO ADDRESS OF DEVICE",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "TRANSMIT REQUEST OVER NETWORK TO ADDRESS OF DEVICE",
+              "width": 364.78997802734375,
+              "x": 11.825469970703125,
+              "y": 0.16533597869873162
+            }
+          ],
+          "textWidth": 364.78997802734375,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "cb30ecab-cb6d-5380-401d-3eee405537a2",
+        "number": 12
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "b5d072ff-df53-411c-b746-813d3ea9bc2a"
+        },
+        "target": {
+          "id": "aaa26d77-4e49-4fce-9532-d1f1cfa90af2"
+        },
+        "id": "c89e5f4c-56b6-4cd4-9d3c-841467eae012",
+        "z": 13,
+        "objectID": "063bcf39-e9fc-5251-892d-271359e314aa",
+        "vertices": [
+          {
+            "x": 615,
+            "y": 326
+          },
+          {
+            "x": 614,
+            "y": 548
+          }
+        ]
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "block",
+        "position": {
+          "x": 144,
+          "y": 585
+        },
+        "size": {
+          "width": 396,
+          "height": 47.59311337313009
+        },
+        "angle": 0,
+        "label": "<p>receive <span data-role=\"tag\" data-value=\"477891f2-426b-7ce3-7b32-b75b7f9d5184\" id=\"id0aa24b4a-1bc4-24fe-37e1-f0a539bf639a\" data-type=\"term\">GPS coordinates</span>&nbsp;corresponding to a new location of the device</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position10",
+        "id": "f5bcb064-ce6e-46cf-bf11-b20ea11616b0",
+        "z": 14,
+        "labelLayout": {
+          "labelBoxWidth": 388.44091796875,
+          "fullString": "RECEIVE GPS COORDINATES CORRESPONDING TO A NEW LOCATION OF THE DEVICE",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "RECEIVE GPS COORDINATES CORRESPONDING TO A NEW",
+              "width": 339.48773193359375,
+              "x": 24.476593017578125,
+              "y": -0.03812725219726332
+            },
+            {
+              "text": "LOCATION OF THE DEVICE",
+              "width": 151.89480590820312,
+              "x": 118.27305603027344,
+              "y": 20.961910247802734
+            }
+          ],
+          "textWidth": 339.48773193359375,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "1c2a4849-a793-38ba-522a-afd19b47fa3e",
+        "number": 14
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "aaa26d77-4e49-4fce-9532-d1f1cfa90af2"
+        },
+        "target": {
+          "id": "f5bcb064-ce6e-46cf-bf11-b20ea11616b0"
+        },
+        "id": "cdf2ce68-6365-4222-bde1-63d685e1e6ef",
+        "z": 15,
+        "objectID": "15571d90-712c-66fe-7574-60cec0513f9e"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "block",
+        "position": {
+          "x": 144,
+          "y": 655.5931133731301
+        },
+        "size": {
+          "width": 396,
+          "height": 26.71320289945074
+        },
+        "angle": 0,
+        "label": "<p>re route UAV to <span data-role=\"tag\" data-value=\"477891f2-426b-7ce3-7b32-b75b7f9d5184\" id=\"id87eefc41-47fc-3665-6ec7-afb9b09fcda8\" data-type=\"term\">GPS coordinates</span>&nbsp;of new location</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position9",
+        "id": "bb6f8f2d-88c6-4153-8981-6fa2d3be78d1",
+        "z": 16,
+        "labelLayout": {
+          "labelBoxWidth": 388.44091796875,
+          "fullString": "RE ROUTE UAV TO GPS COORDINATES OF NEW LOCATION",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "RE ROUTE UAV TO GPS COORDINATES OF NEW LOCATION",
+              "width": 337.85687255859375,
+              "x": 25.292022705078125,
+              "y": 0.02193674011230584
+            }
+          ],
+          "textWidth": 337.85687255859375,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "19e35af0-0e48-d90b-6393-26350814ec7c",
+        "number": 16
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "f5bcb064-ce6e-46cf-bf11-b20ea11616b0"
+        },
+        "target": {
+          "id": "bb6f8f2d-88c6-4153-8981-6fa2d3be78d1"
+        },
+        "id": "c5c41010-efda-4094-a123-4acde303c1ac",
+        "z": 17,
+        "objectID": "e47da7ed-f226-8e12-b784-a362c944bd23"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "bb6f8f2d-88c6-4153-8981-6fa2d3be78d1"
+        },
+        "target": {
+          "id": "dcd40153-d263-f760-6451-5d3f8e0acc92"
+        },
+        "id": "f0a14250-bfb0-4498-81d6-991d068053f5",
+        "embeds": "",
+        "z": 18,
+        "routing": "straight",
+        "objectID": "47a1ee48-93cb-adf7-8b11-3b36d722f856",
+        "vertices": [
+          {
+            "x": 32,
+            "y": 671
+          },
+          {
+            "x": 32,
+            "y": 232
+          }
+        ]
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 376,
+          "y": 302
+        },
+        "size": {
+          "width": 56.692914962768555,
+          "height": 24.207884087380922
+        },
+        "angle": 0,
+        "label": "<p>NO</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "33e20bd3-24fb-44fa-9841-942b4a748c64",
+        "z": 19,
+        "labelLayout": {
+          "labelBoxWidth": 51.73762130737305,
+          "fullString": "NO",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "NO",
+              "width": 19.6348876953125,
+              "x": 16.051366806030273,
+              "y": 0.49998125000000115
+            }
+          ],
+          "textWidth": 19.6348876953125,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "6ab4b081-bb17-d810-f11d-476afa68b2c9"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 331,
+          "y": 362
+        },
+        "size": {
+          "width": 56.692914962768555,
+          "height": 24.207884087380922
+        },
+        "angle": 0,
+        "label": "<p>yes</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "81bf6bd8-9eea-4725-a85f-5e7521c43b42",
+        "z": 20,
+        "labelLayout": {
+          "labelBoxWidth": 51.73762130737305,
+          "fullString": "YES",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "YES",
+              "width": 20.8011474609375,
+              "x": 15.468236923217773,
+              "y": 0.49998125000000115
+            }
+          ],
+          "textWidth": 20.8011474609375,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "50093bc5-e218-2aca-0c32-5bcdfb2ab89b"
+      }
+    ]
+  }
+}

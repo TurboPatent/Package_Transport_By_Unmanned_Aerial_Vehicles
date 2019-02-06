@@ -1,0 +1,196 @@
+<p></p>
+<p>
+  <span data-role="tag" data-value="a82a3917-791d-8a6e-eb56-779fa217aaea" id="id10b75640-808a-59ca-4bf4-d0197a302281" data-type="term">Turning</span> now to 
+  <span data-role="tag" data-value="b1d27171-1acd-4b95-7832-15cb939c2538" id="id0704f9cd-f26c-1af6-50c7-0603287e466e" data-type="figure">Figure 7</span>, a 
+  <span data-role="tag" data-value="882c9983-0b8c-3e46-2a50-06268700bf15" id="id5a526f1a-3814-b8ab-38a8-6c70d85ff5be" data-type="term">flow diagram</span> of a 
+  <span data-role="tag" data-value="ba5243ea-cbdc-900b-da2e-58aa7c2e8d09" id="id7a228a05-b274-b1b4-178f-031d1afa9361" data-type="drawingObject">process 700</span> for implementing the 
+  <span data-role="tag" data-value="84d7b2fd-dcf8-6ccb-7474-d143e5c369a4" id="id5cece204-5ef5-4115-18d2-ad8a9d877117" data-type="term">package transfer operations</span> will now be described in an 
+  <span data-role="tag" data-value="f9479ffd-eb2c-350d-570a-e63d98dffa1b" id="id542f83e3-a298-0643-886a-35a718ec9e0e" data-type="term">embodiment</span>. The 
+  <span data-role="tag" data-value="1968fe0d-31b7-8d16-884d-6b4d143b8ac9" id="idd4499391-8c56-bd7d-1845-27855f093bad" data-type="term">process</span> described in 
+  <span data-role="tag" data-value="b1d27171-1acd-4b95-7832-15cb939c2538" id="idb8767999-ccf5-706e-4139-a7ab4145e9a9" data-type="figure">Figure 7</span> assumes that the UAV 102 has picked up the 
+  <span data-role="tag" data-value="bf85d781-84bb-cfa5-fbd6-9775f12de75e" id="id18fd31ea-cbc9-1227-c6bd-94b613c2e7ba" data-type="term">package subject</span> to an 
+  <span data-role="tag" data-value="8f52e940-2c06-8b20-57a4-a785ead3574f" id="ide3e6d540-81b8-95d4-4337-f518c47f10c2" data-type="term">order</span> placed, e.g., via the 
+  <span data-role="tag" data-value="ced1b89c-6fec-44ad-1cb1-98d25cbb9500" id="id3634c54c-d108-eaa3-205d-e96eea313b42" data-type="drawingObject">user interface screen 600</span> of 
+  <span data-role="tag" data-value="fdf90838-1261-983a-8d1c-671527dca01b" id="idda5bc179-360e-04f9-4ff2-e6fe120aeaad" data-type="figure">Figure 6</span>.&nbsp;
+</p>
+<p></p>
+<p>At 
+  <span data-role="tag" data-value="48990b48-43e4-ab47-e55f-751a3446e744" id="iddefb2f02-a4c5-a333-69c8-7b04c98b1f6e" data-type="drawingObject">block 702</span>, the UAV 102 receives a 
+  <span data-role="tag" data-value="31ec790c-9bb4-dc4e-c3f3-1bd69ed95ea9" id="id0ebfadd4-feed-26e6-10b7-375b43ef5e99" data-type="term">transaction packet</span> (e.g., 
+  <span data-role="tag" data-value="2ec0e8bc-35a7-29fb-6857-4ff6f2fff660" id="idbe1190ae-5151-ae89-d2f1-02ebaa77ccfc" data-type="term">packet</span> 410 of 
+  <span data-role="tag" data-value="c9c3d153-e0f8-e0ed-2488-35aae902a720" id="id758959ec-155e-64df-c797-b4b4fc6dae2a" data-type="figure">Figure 4</span>) for the 
+  <span data-role="tag" data-value="debb0c44-7bd3-7621-894f-f643501068ec" id="id91569d9b-0d50-b509-3bb0-8c0ecd7482b5" data-type="term">package transfer operation</span>. The 
+  <span data-role="tag" data-value="31ec790c-9bb4-dc4e-c3f3-1bd69ed95ea9" id="idb194b50a-90d3-b793-eb49-e44d68c25de4" data-type="term">transaction packet</span> includes the 
+  <span data-role="tag" data-value="477891f2-426b-7ce3-7b32-b75b7f9d5184" id="idc107cf32-3d38-4f4b-653f-7821cf0853ea" data-type="term">GPS coordinates</span> and the 
+  <span data-role="tag" data-value="4d24753b-e1ff-aa97-3a90-69688432f688" id="idbfa1fcac-963f-0218-71f2-2689cd55922a" data-type="term">device identifier</span> of the 
+  <span data-role="tag" data-value="9f991b28-936b-f980-775b-b9064b659d8a" id="idaa1df4ba-d913-6b66-ed5e-13822caba09f" data-type="term">package</span> docking 
+  <span data-role="tag" data-value="43791f76-04fc-bed6-6cb7-4d90ca667550" id="idf1321a4d-cb1e-e76b-8994-576476941723" data-type="term">device</span> associated with the 
+  <span data-role="tag" data-value="541b6167-2fbb-918e-cd8c-379d84f4ce65" id="id4d4d76b9-7fb5-d86f-1c26-2da8f6c77a94" data-type="term">package transfer request</span>. The 
+  <span data-role="tag" data-value="31ec790c-9bb4-dc4e-c3f3-1bd69ed95ea9" id="id423597c6-8557-8d5c-569e-3a95dd01df43" data-type="term">transaction packet</span> may be stored in the 
+  <span data-role="tag" data-value="ab7393e0-c326-2b21-92b7-c1a7b955b2b6" id="id56ab48f3-ee7c-6201-f3cb-4e2c0a4bc950" data-type="drawingObject">memory 408</span> of the UAV 102.&nbsp;
+</p>
+<p></p>
+<p>At 
+  <span data-role="tag" data-value="6b072f25-1ff2-576e-1f5f-7b045c41e3b9" id="ide7741ceb-53fa-832d-f08c-8550ddbcf88f" data-type="drawingObject">block 704</span>, upon 
+  <span data-role="tag" data-value="5aac101d-e90b-294b-8a52-ff5ff2826f59" id="id11186ad6-f00b-0d17-d03e-a3dbe34c06ad" data-type="term">arrival</span> at the 
+  <span data-role="tag" data-value="18d30918-41fd-88aa-1452-fd6144ccd0de" id="idc68ff564-f34e-4830-cdf6-cf96b9969a63" data-type="term">delivery point</span> as defined by the 
+  <span data-role="tag" data-value="477891f2-426b-7ce3-7b32-b75b7f9d5184" id="idd626c8fc-97ca-0297-c3d1-23d2eecab095" data-type="term">GPS coordinates</span> and 
+  <span data-role="tag" data-value="0a20e618-bd5b-0a89-82c4-e010d7dfc748" id="iddc0d28a6-f9b6-3a5c-5f52-a2d38ac1ba02" data-type="term">vertical scale information</span>, the 
+  <span data-role="tag" data-value="de3bc971-1118-4767-41fa-fa0c0427e2cb" id="id01547196-4102-4e21-be9d-2b6c0b53a25a" data-type="drawingObject">application 414</span> receives a 
+  <span data-role="tag" data-value="4d24753b-e1ff-aa97-3a90-69688432f688" id="id4bd76aad-c730-b616-5b04-1499f172d46a" data-type="term">device identifier</span> from a 
+  <span data-role="tag" data-value="9f991b28-936b-f980-775b-b9064b659d8a" id="idbbeb78dd-47e0-1281-1733-d85e307023bf" data-type="term">package</span> docking 
+  <span data-role="tag" data-value="43791f76-04fc-bed6-6cb7-4d90ca667550" id="idb555d471-3d6b-2ac8-a001-ec511529702d" data-type="term">device</span> located at the 
+  <span data-role="tag" data-value="18d30918-41fd-88aa-1452-fd6144ccd0de" id="idcb05336c-b1b8-c1b9-d022-735af485fd82" data-type="term">delivery point</span> and compares the 
+  <span data-role="tag" data-value="4d24753b-e1ff-aa97-3a90-69688432f688" id="id0b00dec1-efdf-c958-1e6a-f84cc00a5559" data-type="term">device identifier</span> for the 
+  <span data-role="tag" data-value="9f991b28-936b-f980-775b-b9064b659d8a" id="id705771cd-9ec5-52d0-4afd-ee79a302c770" data-type="term">package</span> docking 
+  <span data-role="tag" data-value="43791f76-04fc-bed6-6cb7-4d90ca667550" id="id890cee6f-3eab-a94c-89ed-704e762e6113" data-type="term">device</span> located at the 
+  <span data-role="tag" data-value="18d30918-41fd-88aa-1452-fd6144ccd0de" id="id685f9ec6-e952-9e53-c32b-c46b0142bcf0" data-type="term">delivery point</span> with the 
+  <span data-role="tag" data-value="4d24753b-e1ff-aa97-3a90-69688432f688" id="id21795be7-fed7-f976-e89d-9a31c5cc44e3" data-type="term">device identifier</span> stored in the 
+  <span data-role="tag" data-value="89ce7b4d-387c-b20a-068e-f8ae504de677" id="id4b531cad-e33e-bb00-1f55-11197e33fccf" data-type="drawingObject">transaction packet 410</span>.&nbsp;
+</p>
+<p></p>
+<p>At 
+  <span data-role="tag" data-value="2b232995-98ea-2452-b14d-95d506792f03" id="idcc66e070-3c2e-fd39-6b8e-d03f855b5a9e" data-type="term">block</span> 706, the 
+  <span data-role="tag" data-value="de3bc971-1118-4767-41fa-fa0c0427e2cb" id="id8633f651-3825-1ee2-548a-15f27fef8c9d" data-type="drawingObject">application 414</span> determines whether the 
+  <span data-role="tag" data-value="4d24753b-e1ff-aa97-3a90-69688432f688" id="id07a92e9f-9a2a-3fd2-96fc-ff68a5abf9d0" data-type="term">device identifier</span> of the 
+  <span data-role="tag" data-value="9f991b28-936b-f980-775b-b9064b659d8a" id="ida0e66d4f-47d5-8d2e-9135-d7bf322d3f12" data-type="term">package</span> docking 
+  <span data-role="tag" data-value="43791f76-04fc-bed6-6cb7-4d90ca667550" id="idf5e0c8d5-93c7-585b-43b4-d6521b1afa43" data-type="term">device</span> located at the 
+  <span data-role="tag" data-value="18d30918-41fd-88aa-1452-fd6144ccd0de" id="id26995c19-f761-e1f9-ba65-e72bb2d06362" data-type="term">delivery point</span> matches the 
+  <span data-role="tag" data-value="4d24753b-e1ff-aa97-3a90-69688432f688" id="id3660f1cd-7787-32c4-513e-c4a729989f2f" data-type="term">device identifier</span> stored in the 
+  <span data-role="tag" data-value="89ce7b4d-387c-b20a-068e-f8ae504de677" id="id29fa624a-4311-a2a8-95e8-d07fa3642d55" data-type="drawingObject">transaction packet 410</span>. If so, the 
+  <span data-role="tag" data-value="de3bc971-1118-4767-41fa-fa0c0427e2cb" id="id42f9e504-d3b1-cc38-b05d-c95ebcc259fa" data-type="drawingObject">application 414</span> directs the UAV 102 to initiate the 
+  <span data-role="tag" data-value="debb0c44-7bd3-7621-894f-f643501068ec" id="id5f4a7edb-d142-5c98-4dd1-51eea92ae456" data-type="term">package transfer operation</span>. The 
+  <span data-role="tag" data-value="debb0c44-7bd3-7621-894f-f643501068ec" id="id9e4b113d-4997-2241-005a-53ffdf52c1ea" data-type="term">package transfer operation</span> includes a 
+  <span data-role="tag" data-value="3dd083f4-1d86-cbf1-29e4-2abe16824dcc" id="id10898327-77a6-ec75-9c7c-e8004b177b0d" data-type="term">hand</span> off of the 
+  <span data-role="tag" data-value="9f991b28-936b-f980-775b-b9064b659d8a" id="id201d95bd-0603-854f-c0b0-1f13e69c9c53" data-type="term">package</span> between the UAV and the 
+  <span data-role="tag" data-value="9f991b28-936b-f980-775b-b9064b659d8a" id="id27b0df67-f0c5-7c4c-f2b3-ff2562d45415" data-type="term">package</span> docking 
+  <span data-role="tag" data-value="43791f76-04fc-bed6-6cb7-4d90ca667550" id="ide8cb4aa3-af36-4099-9997-e85d888e9805" data-type="term">device</span>. The 
+  <span data-role="tag" data-value="debb0c44-7bd3-7621-894f-f643501068ec" id="id369477e6-294c-7f22-f295-8babbab3b010" data-type="term">package transfer operation</span> may also include 
+  <span data-role="tag" data-value="d0465d7e-8f5a-0a21-7bb3-e44fec9d92be" id="idc21b4cb4-9bf2-fbb7-b648-8b488966c9b7" data-type="term">recording</span> the 
+  <span data-role="tag" data-value="ba9201e2-b6cf-4592-6dca-78b23eaaf3be" id="idaac867ca-2148-c1a4-63cb-63388104266c" data-type="term">details</span> of the 
+  <span data-role="tag" data-value="3dd083f4-1d86-cbf1-29e4-2abe16824dcc" id="id0a2211ab-619b-a891-9cce-77e9cb357941" data-type="term">hand</span> off including the 
+  <span data-role="tag" data-value="1dffe4dc-1d63-fae6-bf20-2be30c9f84b2" id="idc9fa4852-2591-f298-1798-430a785c58ba" data-type="term">date and time</span> of 
+  <span data-role="tag" data-value="e8c47fe2-4a37-17d2-eb27-3890c2744e18" id="idc65f8ccd-95a7-973a-4b8f-b98fe89797d0" data-type="term">delivery and/or video</span>
+  <span data-role="tag" data-value="d0465d7e-8f5a-0a21-7bb3-e44fec9d92be" id="id66428162-f1a2-5bfe-a13d-296ea1d67621" data-type="term">recording</span> the 
+  <span data-role="tag" data-value="3dd083f4-1d86-cbf1-29e4-2abe16824dcc" id="idd8556586-bc29-7f18-bfd4-bc806388a146" data-type="term">hand</span> off.&nbsp;
+</p>
+<p></p>
+<p>At 
+  <span data-role="tag" data-value="abfdbcf6-bcab-9c36-eb9b-8245e25e09d2" id="id041e93c0-5663-17de-f037-4d37893be447" data-type="drawingObject">block 710</span>, once the 
+  <span data-role="tag" data-value="dadb94b6-cc07-10da-dd42-54cda8d2c2d3" id="idfcf72ac2-c736-d512-45da-68ffd23bf848" data-type="term">operation</span> is completed, the 
+  <span data-role="tag" data-value="de3bc971-1118-4767-41fa-fa0c0427e2cb" id="id4fcfefa6-86e7-9252-2bad-711acc033942" data-type="drawingObject">application 414</span> transmits 
+  <span data-role="tag" data-value="bb235e25-0ce7-b95c-7882-b24b094f65af" id="id01931e95-e438-e414-0b24-5bf3a2021f37" data-type="term">confirmation</span> of the 
+  <span data-role="tag" data-value="dadb94b6-cc07-10da-dd42-54cda8d2c2d3" id="id0b44f45d-27ba-b700-11da-7c6d87bfce77" data-type="term">operation</span> to the 
+  <span data-role="tag" data-value="b4b54704-e5f0-a0f0-7490-7265540c149c" id="idb9ead9e4-d4e1-0bd5-b050-8a16e3eb3a7a" data-type="term">end user</span>. This may be implemented using 
+  <span data-role="tag" data-value="b7b6dd4c-255d-a8f2-bf7b-60b7dc331be1" id="id4622e744-44b5-1619-5e9c-a7e3e5fb5858" data-type="term">various techniques</span>. For 
+  <span data-role="tag" data-value="df02a3d0-0853-c95c-ba28-21ba57fc68b5" id="id7a30869d-7946-bcae-e50e-54cccd99effe" data-type="term">example</span>, the 
+  <span data-role="tag" data-value="bb235e25-0ce7-b95c-7882-b24b094f65af" id="id18b17ddb-e52b-6fa2-a8a5-2a29b083b1b5" data-type="term">confirmation</span> may be directly transmitted to the 
+  <span data-role="tag" data-value="9f991b28-936b-f980-775b-b9064b659d8a" id="id0e749d12-aa0d-d46e-d4d2-4eae2658f703" data-type="term">package</span> docking 
+  <span data-role="tag" data-value="43791f76-04fc-bed6-6cb7-4d90ca667550" id="ida39dea7c-bf07-af23-c035-066b4e653c03" data-type="term">device</span> over the 
+  <span data-role="tag" data-value="233fca2f-6fe1-9742-ec8c-52fa3c30fb2c" id="idc40d2ad8-3db7-2f44-ec53-14f8f3524047" data-type="term">wireless network</span>. Alternatively, the 
+  <span data-role="tag" data-value="bb235e25-0ce7-b95c-7882-b24b094f65af" id="id072249bf-eb19-2c59-e35c-c60c9081fa0a" data-type="term">confirmation</span> may be transmitted by the UAV 102 over 
+  <span data-role="tag" data-value="c6daa7a5-101f-e259-e5ce-95dc43c2dc5e" id="id0ba1c6b3-8f21-7c0c-6f30-1403cacea86f" data-type="term">satellite</span>, cellular, or 
+  <span data-role="tag" data-value="4b1d5248-9c4f-5375-11f4-dddfaecfb294" id="id10d5552e-41fd-519d-0632-7fe90729fa94" data-type="term">other long-range network</span> to the 
+  <span data-role="tag" data-value="783f032e-c1dd-4660-ed13-6f384a5b971d" id="ida2fc1198-ff61-c68a-7319-a4916b06f90c" data-type="drawingObject">host system computer 106</span>, which then provides the 
+  <span data-role="tag" data-value="b4b54704-e5f0-a0f0-7490-7265540c149c" id="id999dc0a2-0e86-6186-737f-a882274de68e" data-type="term">end user</span> with 
+  <span data-role="tag" data-value="8b21437d-e767-facd-14e5-825c8ad2717a" id="id3a0ff6d6-6c66-a737-c073-da51b5880d86" data-type="term">access</span> to the 
+  <span data-role="tag" data-value="bb235e25-0ce7-b95c-7882-b24b094f65af" id="id09e3abf6-54b3-1d9a-32c9-a0052502a496" data-type="term">confirmation</span>. In another 
+  <span data-role="tag" data-value="f9479ffd-eb2c-350d-570a-e63d98dffa1b" id="id465b8c23-539b-a889-fe7d-5b62a84cc2f4" data-type="term">embodiment</span>, the UAV 102 may store the 
+  <span data-role="tag" data-value="bb235e25-0ce7-b95c-7882-b24b094f65af" id="id68a54e1f-219c-6129-f4a5-68d7a66263f2" data-type="term">confirmation</span> along with 
+  <span data-role="tag" data-value="f043880a-c3a7-ea79-86b4-4130bc0a6543" id="idd95504f4-e68d-7af0-7c82-bcedd73cab31" data-type="term">other confirmations</span> in 
+  <span data-role="tag" data-value="89354f35-6d0f-8a0b-dbcd-7e1dccc947fc" id="id3d9f8819-f21b-8335-e920-965bfa23db55" data-type="term">its memory</span>
+  <span data-role="tag" data-value="ab7393e0-c326-2b21-92b7-c1a7b955b2b6" id="id659096b7-c247-78a5-a059-9a2e0f473516" data-type="drawingObject">memory 408</span> and upload the 
+  <span data-role="tag" data-value="da6f4cf3-ecd8-5195-8abc-8d83b22b2a98" id="id6761f942-e6fe-cb62-1e17-469016e89fc2" data-type="term">confirmations</span> in a 
+  <span data-role="tag" data-value="f6777bbc-e8f5-b0e5-42d7-eaea79534877" id="idfef83efc-5b2e-719b-95fa-aa870dc90cc7" data-type="term">batch process</span> to the 
+  <span data-role="tag" data-value="783f032e-c1dd-4660-ed13-6f384a5b971d" id="ide6378c20-6b38-df8e-4e29-03ea8a124dad" data-type="drawingObject">host system computer 106</span> at a 
+  <span data-role="tag" data-value="129643cb-cdba-41fa-4887-99f5ff048e37" id="idc76d06cc-aa69-4ab9-50d4-3db5e1e21dda" data-type="term">designated time</span>.&nbsp;
+</p>
+<p></p>
+<p>If, however, the 
+  <span data-role="tag" data-value="4d24753b-e1ff-aa97-3a90-69688432f688" id="id1bb1ec76-ea77-f54f-909d-c63211fd7204" data-type="term">device identifier</span> of the 
+  <span data-role="tag" data-value="9f991b28-936b-f980-775b-b9064b659d8a" id="id5f82e2cb-e3d2-c949-d7b8-f8d6dce618ab" data-type="term">package</span> docking 
+  <span data-role="tag" data-value="43791f76-04fc-bed6-6cb7-4d90ca667550" id="ida2833daa-4447-97b9-b6c6-b2636e545b58" data-type="term">device</span> at the 
+  <span data-role="tag" data-value="904a75b6-1811-624b-b77d-69941a70a45f" id="idcbde9a8c-0b39-d52c-b92e-aa22f741cdd4" data-type="term">delivery location</span> does not match the 
+  <span data-role="tag" data-value="4d24753b-e1ff-aa97-3a90-69688432f688" id="id7a4ada2f-9b13-c3b8-ddb9-0e26eab41b0a" data-type="term">device identifier</span> in the 
+  <span data-role="tag" data-value="89ce7b4d-387c-b20a-068e-f8ae504de677" id="id51885cbd-8dc7-afdb-685e-84cebfe2c62a" data-type="drawingObject">transaction packet 410</span>, at 
+  <span data-role="tag" data-value="cb30ecab-cb6d-5380-401d-3eee405537a2" id="id16119272-53d6-5843-4124-768902b67bb2" data-type="drawingObject">block 712</span>, the 
+  <span data-role="tag" data-value="de3bc971-1118-4767-41fa-fa0c0427e2cb" id="id0b2e123b-6e5c-fba1-1c12-413930d37285" data-type="drawingObject">application 414</span> directs the 
+  <span data-role="tag" data-value="353785a2-c555-a862-e200-8497d3638496" id="idd014317c-4ca5-50d7-9a72-7322ac1d870e" data-type="term">communication components</span> 404 to transmit a 
+  <span data-role="tag" data-value="9bf2adfd-04b8-303e-0eec-67db85d37925" id="id1a746f26-6dd1-956e-4f0b-1696ae70f9c5" data-type="term">request</span> over a 
+  <span data-role="tag" data-value="a0b1fa83-debf-a1a6-b0c2-6965f0cf17ac" id="id6bbd8b1c-9dc7-a9bb-273f-4677c201773d" data-type="term">short-range</span> (e.g., BLUETOOTH or WI-FI) 
+  <span data-role="tag" data-value="b864cff6-1f0f-6f86-aad0-5bddfdbcd462" id="id8f9591c5-586b-6861-f79c-72814ec9a174" data-type="term">network</span>. The 
+  <span data-role="tag" data-value="9bf2adfd-04b8-303e-0eec-67db85d37925" id="ida3c5d082-8f86-307d-aab3-25fb033b37eb" data-type="term">request</span> may include the 
+  <span data-role="tag" data-value="4d24753b-e1ff-aa97-3a90-69688432f688" id="idc53ead31-b213-1b15-7ee6-4627c207b005" data-type="term">device identifier</span>, or 
+  <span data-role="tag" data-value="7ee7ed1f-831a-b455-708c-792bb78e286a" id="id2a594a07-cd53-f784-6bd3-fc76d9eb0124" data-type="term">network address</span>, of the 
+  <span data-role="tag" data-value="9f991b28-936b-f980-775b-b9064b659d8a" id="idaf468c29-e85d-0da0-3353-3366612aa26d" data-type="term">package</span> docking 
+  <span data-role="tag" data-value="43791f76-04fc-bed6-6cb7-4d90ca667550" id="id4b92be30-28c3-7bbc-dba2-32b73ff71280" data-type="term">device</span>. Assuming that the 
+  <span data-role="tag" data-value="9f991b28-936b-f980-775b-b9064b659d8a" id="idbe6031cd-4578-08d8-f67b-9e8fdbbb9eef" data-type="term">package</span> docking 
+  <span data-role="tag" data-value="43791f76-04fc-bed6-6cb7-4d90ca667550" id="id28560217-084f-43ce-aea8-429013170d58" data-type="term">device</span> has not moved outside of the 
+  <span data-role="tag" data-value="48d0bb36-c882-cfa5-b027-0f1287c127c8" id="id29497fe5-7106-331f-4979-7ac1e015c7a9" data-type="term">range</span> of 
+  <span data-role="tag" data-value="d077cd86-6d24-913b-7035-ec9c92ca0710" id="id55f95e98-7ea5-fdaa-99af-882fd04ce44c" data-type="term">communication</span> of the UAV, the 
+  <span data-role="tag" data-value="9f991b28-936b-f980-775b-b9064b659d8a" id="id51f69dda-0888-efe7-26f7-7a8aeabf1498" data-type="term">package</span> docking 
+  <span data-role="tag" data-value="43791f76-04fc-bed6-6cb7-4d90ca667550" id="ide7ce2094-fb3e-9cc3-570a-3bfb0c216c6b" data-type="term">device</span> having the 
+  <span data-role="tag" data-value="7ee7ed1f-831a-b455-708c-792bb78e286a" id="id7d9ef9eb-47d4-e6a6-7bc4-388e3ab9a6db" data-type="term">network address</span> sends a 
+  <span data-role="tag" data-value="aa9edf3d-2706-5f63-a9a1-fc950bf3b500" id="idba61282a-4413-91ca-1a00-455942299864" data-type="term">signal</span> indicating 
+  <span data-role="tag" data-value="5fd69e1e-07ee-5804-47c3-d4449337f5a9" id="id5453b4f2-af0c-98c1-4ae3-7fff99ec9963" data-type="term">its presence</span> at a 
+  <span data-role="tag" data-value="4bb191de-a81d-5234-0363-59fe7065828a" id="idcd57332e-8354-57a1-10fc-e56b81cf24e7" data-type="term">new location</span>. The 
+  <span data-role="tag" data-value="9f991b28-936b-f980-775b-b9064b659d8a" id="id32a155dd-1ae5-3224-bfe6-5b4fa3da1b16" data-type="term">package</span> docking 
+  <span data-role="tag" data-value="43791f76-04fc-bed6-6cb7-4d90ca667550" id="id57277852-da9c-cb40-90f0-3b4c8ffd3e9f" data-type="term">device</span>, or 
+  <span data-role="tag" data-value="f5da865f-cc58-4a47-0baf-0bf39200dfb5" id="id7e32110d-427c-f2cc-e72d-c4589bba41ec" data-type="term">alternatively the mobile device</span> associated with the 
+  <span data-role="tag" data-value="9f991b28-936b-f980-775b-b9064b659d8a" id="idfdf04001-9177-c0c8-69a8-2757ea35cdd3" data-type="term">package</span> docking 
+  <span data-role="tag" data-value="43791f76-04fc-bed6-6cb7-4d90ca667550" id="id0d89edaf-1c46-65a2-5829-1c43c9f70d5b" data-type="term">device</span>, may then send 
+  <span data-role="tag" data-value="f39e9a2f-26ae-5883-ee33-7c6028ad03db" id="id141e9baf-2107-8280-d8d4-541c3e73fd65" data-type="term">updated GPS location information</span> to the UAV at 
+  <span data-role="tag" data-value="1c2a4849-a793-38ba-522a-afd19b47fa3e" id="idd047d5e2-08eb-77c1-5d1f-7fe2294e4a6d" data-type="drawingObject">block 714</span>. The UAV is re-routed to the 
+  <span data-role="tag" data-value="4bb191de-a81d-5234-0363-59fe7065828a" id="idfd2edc8e-1f7a-5781-e8e8-9d15d66a45dd" data-type="term">new location</span> based on the 
+  <span data-role="tag" data-value="2b29f795-7494-3be1-c2ab-906e76031af8" id="id2a7882bd-d59a-a18b-a0f8-ba53b651be89" data-type="term">updated GPS coordinates</span> at 
+  <span data-role="tag" data-value="19e35af0-0e48-d90b-6393-26350814ec7c" id="idaf85d254-5ae1-0f6e-5bf0-f47c53fada3c" data-type="drawingObject">block 716</span>, and 
+  <span data-role="tag" data-value="1968fe0d-31b7-8d16-884d-6b4d143b8ac9" id="ide1e55dd2-5465-ba94-7dff-901fc78a0d06" data-type="term">process</span> reverts back to 
+  <span data-role="tag" data-value="6b072f25-1ff2-576e-1f5f-7b045c41e3b9" id="id380c736c-6e7e-21d8-6cac-8aa1459c9196" data-type="drawingObject">block 704</span>.&nbsp;
+</p>
+<p></p>
+<p>As 
+  <span data-role="tag" data-value="89e4c52f-d730-0ba4-3bcb-1f60b1152b43" id="idd8417713-bef5-9078-08ff-b6b1624225de" data-type="term">indicated above</span>, the 
+  <span data-role="tag" data-value="9f991b28-936b-f980-775b-b9064b659d8a" id="idc42f57ad-c2cc-c1d1-4957-50514404f6cc" data-type="term">package</span> docking 
+  <span data-role="tag" data-value="43791f76-04fc-bed6-6cb7-4d90ca667550" id="id0fa42464-ea45-cdad-2b46-13111284fde6" data-type="term">device</span> may be a 
+  <span data-role="tag" data-value="abc0ffc9-65c2-8a6c-5769-bf13d6bb95a0" id="id1ce16b28-df2d-cf5b-a236-b1793eb78e13" data-type="term">secured system</span> in which a 
+  <span data-role="tag" data-value="f8c16244-fbfb-a373-dfd9-1068afcc581b" id="idb36206b9-3132-e513-6145-1d89ca5f8525" data-type="term">locking system and security key</span> (e.g., 
+  <span data-role="tag" data-value="a1d09f2b-41b1-c845-d52e-d17efedfe173" id="idffb685c0-3cbd-8a86-6258-061f5ad33204" data-type="drawingObject">locking system 502</span>
+  <span data-role="tag" data-value="33805681-6d5e-85f9-31e9-4fc77b7d1c90" id="id4dea6c50-fb88-49cb-27fe-1f1d9ee5b456" data-type="term">and security key</span>
+  <span data-role="tag" data-value="a1d5dc82-e966-be62-c6c5-62a3c6204736" id="id0dc4db11-3585-096d-31cb-71517330019d" data-type="drawingObject">security key 506</span>, respectively, of 
+  <span data-role="tag" data-value="a6f86138-eb46-1ce2-d19f-a8c0cc1d2b69" id="id9bea23b4-4562-1900-52b8-74385a4bef26" data-type="figure">Figure 5</span>) is used to gain 
+  <span data-role="tag" data-value="8b21437d-e767-facd-14e5-825c8ad2717a" id="id5d3a67ef-fbc4-7ea6-fa34-536d47904c5f" data-type="term">access</span> to the 
+  <span data-role="tag" data-value="43791f76-04fc-bed6-6cb7-4d90ca667550" id="id5cb57681-9e14-c6e5-c113-6767b1ab9159" data-type="term">device</span>. In this 
+  <span data-role="tag" data-value="f9479ffd-eb2c-350d-570a-e63d98dffa1b" id="id8dfc1772-d960-694a-9fa2-3844994deb20" data-type="term">embodiment</span>, the 
+  <span data-role="tag" data-value="ba5243ea-cbdc-900b-da2e-58aa7c2e8d09" id="id340f5896-1855-c66d-aa30-9f2fc750fb47" data-type="drawingObject">process 700</span> may include 
+  <span data-role="tag" data-value="b6ef5830-f031-b38e-6170-8619c8e1e346" id="idbc47be3c-26f2-8c04-e7b7-16d8114e9f6b" data-type="term">additional functions</span>. The 
+  <span data-role="tag" data-value="3e1d0db6-35d5-6fe6-4a2e-44f84df6b55b" id="idaa90e2fe-2551-ad0f-9cd6-9fc1a3d44e67" data-type="drawingObject">control processor 406</span> may be configured to store the 
+  <span data-role="tag" data-value="dec900c7-1ee2-542c-2eae-984eeadcc34e" id="id8dfe046b-04de-b57a-aaca-fdb32a352ad2" data-type="term">security key</span> associated with the 
+  <span data-role="tag" data-value="9f991b28-936b-f980-775b-b9064b659d8a" id="id43a51eba-8b0d-37c2-bc95-98f2b19dee07" data-type="term">package</span> docking 
+  <span data-role="tag" data-value="43791f76-04fc-bed6-6cb7-4d90ca667550" id="id683183cd-f491-e83f-497a-08d60e04f1e6" data-type="term">device</span>. In an 
+  <span data-role="tag" data-value="f9479ffd-eb2c-350d-570a-e63d98dffa1b" id="ida16d2956-8152-fce7-4bad-82e758aa6ae6" data-type="term">embodiment</span>, the 
+  <span data-role="tag" data-value="3e1d0db6-35d5-6fe6-4a2e-44f84df6b55b" id="id8a44b013-0642-447b-7f6a-682507927ce9" data-type="drawingObject">control processor 406</span> may be configured to receive an 
+  <span data-role="tag" data-value="15ac15c1-38e1-0fd3-b4fb-53f240878d3c" id="id517e9ae5-133c-e261-3eb8-ae49f3a0b796" data-type="term">acknowledgement communication</span> from the 
+  <span data-role="tag" data-value="9f991b28-936b-f980-775b-b9064b659d8a" id="ida4ddd624-69c7-b4cb-9f8e-bdff26d1434a" data-type="term">package</span> docking 
+  <span data-role="tag" data-value="43791f76-04fc-bed6-6cb7-4d90ca667550" id="id25f38f69-2784-f907-f5ca-0ba6b0edb7d4" data-type="term">device</span> upon 
+  <span data-role="tag" data-value="1b268904-b049-9336-b3b8-9f2439a60603" id="id1fa6698d-7447-02d5-fa4a-faa32e409a6f" data-type="term">completion</span> of the 
+  <span data-role="tag" data-value="debb0c44-7bd3-7621-894f-f643501068ec" id="id8be5d848-5c74-7504-e0c6-9b3a3c41268c" data-type="term">package transfer operation</span> indicating the 
+  <span data-role="tag" data-value="9f991b28-936b-f980-775b-b9064b659d8a" id="id9604f131-f33c-e08f-17b1-f5455dda131d" data-type="term">package</span> docking 
+  <span data-role="tag" data-value="43791f76-04fc-bed6-6cb7-4d90ca667550" id="idc54dd770-b40d-3208-ddcd-ae63d2c0a83c" data-type="term">device</span> received the 
+  <span data-role="tag" data-value="9f991b28-936b-f980-775b-b9064b659d8a" id="id8836e578-b6c3-469b-4b57-4f49664363bc" data-type="term">package</span>. In a 
+  <span data-role="tag" data-value="af90644f-fa39-2a69-26cd-2aa5c3c0053a" id="id36aadb9a-f8a9-8686-5be9-e51d20728ae8" data-type="term">further embodiment</span>, the 
+  <span data-role="tag" data-value="3e1d0db6-35d5-6fe6-4a2e-44f84df6b55b" id="id4162d4ed-9c1f-a044-a5a7-2bef3bf33b53" data-type="drawingObject">control processor 406</span> may be configured to transmit, upon reaching a pre-defined clearance after 
+  <span data-role="tag" data-value="b5cb98d9-9b81-be9e-e460-e17bbb36cd63" id="idb63b5428-485b-7255-6169-3ba8bd274142" data-type="term">departure</span> of the UAV, a 
+  <span data-role="tag" data-value="9bf2adfd-04b8-303e-0eec-67db85d37925" id="id7a0b1a27-d1c4-667a-ac30-f1ac439398a2" data-type="term">request</span> to the 
+  <span data-role="tag" data-value="9f991b28-936b-f980-775b-b9064b659d8a" id="idabc985b5-24c3-2744-c1e6-82b07687a108" data-type="term">package</span> docking 
+  <span data-role="tag" data-value="43791f76-04fc-bed6-6cb7-4d90ca667550" id="id202b8ebd-17ad-1456-fca4-9cd97fde3d6d" data-type="term">device</span> to secure the 
+  <span data-role="tag" data-value="9f991b28-936b-f980-775b-b9064b659d8a" id="id0eee10ce-3629-7c17-f1a0-b0a83bac93b5" data-type="term">package</span> by locking the 
+  <span data-role="tag" data-value="39b88cfd-3ff9-aeb7-68c7-830d71c6cdb1" id="idbcd4f5ec-bedb-1922-3566-d832a53b51bd" data-type="term">door</span>. In this 
+  <span data-role="tag" data-value="f9479ffd-eb2c-350d-570a-e63d98dffa1b" id="id888826bc-0566-c1a6-855c-01d1395ef2f3" data-type="term">embodiment</span>, a 
+  <span data-role="tag" data-value="bb235e25-0ce7-b95c-7882-b24b094f65af" id="id6a2b3309-deb8-0f04-7b2c-4af83564c0b3" data-type="term">confirmation</span> of the 
+  <span data-role="tag" data-value="4d91870e-096a-2db2-b9a8-48fc4edd7815" id="idcf8e73d2-9bdd-5660-1637-6ab06e0b2434" data-type="term">transaction</span> may be transmitted by the UAV to the 
+  <span data-role="tag" data-value="9f991b28-936b-f980-775b-b9064b659d8a" id="id60a189bf-517d-ae14-7351-e1b9f1be9507" data-type="term">package</span> docking 
+  <span data-role="tag" data-value="43791f76-04fc-bed6-6cb7-4d90ca667550" id="id3e6efab4-2ca0-e5fb-d906-69e2fbef5df4" data-type="term">device</span> when the UAV receives an 
+  <span data-role="tag" data-value="435a4ed2-a292-4e7d-48b8-83fcf3de59b7" id="idb52ca657-c636-5acb-5ebd-b9db12dd1c54" data-type="term">acknowledgement</span> that the 
+  <span data-role="tag" data-value="9f991b28-936b-f980-775b-b9064b659d8a" id="iddc81411f-7051-660d-6ce7-481546ece534" data-type="term">package</span> is secured.&nbsp;
+</p>
+<p></p>

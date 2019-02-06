@@ -1,0 +1,340 @@
+{
+  "isLandscape": false,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "numberLabel",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "item",
+        "position": {
+          "x": 603.2785415649414,
+          "y": 17.6875
+        },
+        "size": {
+          "width": 28.346457481384277,
+          "height": 28.346457481384277
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "only",
+        "id": "c786727b-3f56-43d4-a562-ca7313a1c57d",
+        "z": 1,
+        "objectID": "5066907f-ea99-3c41-0206-da5da912f969",
+        "number": 0
+      },
+      {
+        "type": "tp.Element",
+        "shape": "parallelogram",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"fb134b1e-f49d-1d9e-04be-fc048ef4fe20\" id=\"id21282083-8e08-9fdc-22ba-63ca6f7fee54\" data-type=\"term\">upper wall</span></p>",
+        "position": {
+          "x": 159.99999999999955,
+          "y": 178.25197029113636
+        },
+        "size": {
+          "width": 324,
+          "height": 43
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position1",
+        "arrowheads": "neither",
+        "id": "17082ccb-fce1-4f09-b0b8-4bcd0def1960",
+        "z": 2,
+        "labelLayout": {
+          "labelBoxWidth": 268.1171569824219,
+          "fullString": " ",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 134.05857849121094,
+              "y": 7.533111895751954
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "7354d7b1-f98e-b5f2-1cde-bbc95213f8f0",
+        "number": 2
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 161,
+          "y": 221
+        },
+        "size": {
+          "width": 303,
+          "height": 79
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "b80e84d2-926a-48e7-aa6c-ded9a12adceb",
+        "z": 3,
+        "labelLayout": {
+          "labelBoxWidth": 276.5160217285156,
+          "fullString": " ",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 138.2580108642578,
+              "y": 25.397377337646486
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "2bcbdbfc-a6ac-2061-33cc-5fa1dbd7a6da",
+        "number": null
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "x": 484,
+          "y": 177
+        },
+        "target": {
+          "x": 484,
+          "y": 257
+        },
+        "id": "b39e08a9-4537-4943-9ef7-ad7c4459b5be",
+        "embeds": "",
+        "z": 4,
+        "routing": "straight",
+        "objectID": "9ff6e89f-638e-e8e0-77f1-7de2a8f1ac55",
+        "labelPosition": "internal",
+        "labelVAlign": "center"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "x": 464,
+          "y": 299
+        },
+        "target": {
+          "x": 484,
+          "y": 255
+        },
+        "id": "0b42ac20-34cf-43b5-8b1e-ddfcc6f9089c",
+        "embeds": "",
+        "z": 5,
+        "routing": "straight",
+        "objectID": "25d48084-c0af-b3dc-5961-6a9e3682627a",
+        "labelPosition": "internal",
+        "labelVAlign": "center"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"56c7359a-c3f7-b57a-6f43-0418083342b0\" id=\"idc84c0e95-e1a5-86d5-faca-22b7a5cd1b16\" data-type=\"term\">opening</span></p>",
+        "position": {
+          "x": 246,
+          "y": 229
+        },
+        "size": {
+          "width": 134,
+          "height": 36
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "10239ea8-d31f-4337-93dd-087edae992d5",
+        "z": 6,
+        "labelLayout": {
+          "labelBoxWidth": 122.2876205444336,
+          "fullString": " ",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 61.1438102722168,
+              "y": 5.858288134765626
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "ed0bafe0-dedc-c485-2a3a-3020f9e44a5a",
+        "number": 4
+      },
+      {
+        "type": "tp.Element",
+        "shape": "parallelogram",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"39b88cfd-3ff9-aeb7-68c7-830d71c6cdb1\" id=\"id40377169-7440-d720-1792-849b4c13c69e\" data-type=\"term\">door</span></p>",
+        "position": {
+          "x": 237,
+          "y": 266
+        },
+        "size": {
+          "width": 144,
+          "height": 26.46665551666161
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "786ce30d-fdca-4f39-a257-05ffe6c5ef3b",
+        "z": 7,
+        "labelLayout": {
+          "labelBoxWidth": 119.16319274902344,
+          "fullString": " ",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 59.58159637451172,
+              "y": 0.5994389907836926
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "39e827f2-5075-4ffb-2511-faa79ee8e377",
+        "number": 6
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"8f5d287b-ef41-c547-cdd6-c53967ddaffa\" id=\"id6bb71416-32a3-6a64-8218-d3bd2fa17c7b\" data-type=\"term\">housing</span></p>",
+        "position": {
+          "x": 208,
+          "y": 300
+        },
+        "size": {
+          "width": 216,
+          "height": 245
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position10",
+        "arrowheads": "neither",
+        "id": "8bdb82b7-b6bd-4b24-8a74-0f6e89167038",
+        "z": 8,
+        "labelLayout": {
+          "labelBoxWidth": 197.12033081054688,
+          "fullString": " ",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 98.56016540527344,
+              "y": 100.82735093994141
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "d816a3eb-41e8-638e-8c7a-43b23e88041d",
+        "number": 8
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "x": 423,
+          "y": 546
+        },
+        "target": {
+          "x": 476,
+          "y": 462
+        },
+        "id": "322b440a-bc50-42a3-bb91-45b4d4954ac3",
+        "embeds": "",
+        "z": 9,
+        "routing": "straight",
+        "objectID": "20388bf9-5f25-6f98-8dfa-3931e4260107",
+        "labelPosition": "internal",
+        "labelVAlign": "center"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "x": 473,
+          "y": 463
+        },
+        "target": {
+          "x": 476,
+          "y": 274
+        },
+        "id": "7ab2409f-ffb3-48dd-85f3-623fc8bd8a01",
+        "embeds": "",
+        "z": 10,
+        "routing": "straight",
+        "objectID": "fa3c1443-893b-73d3-4206-91b64e7d78c0",
+        "labelPosition": "internal",
+        "labelVAlign": "center"
+      }
+    ]
+  }
+}
